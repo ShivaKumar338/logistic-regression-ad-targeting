@@ -70,7 +70,6 @@ By integrating this predictive model into its ad strategy, **ConnectSphere Digit
 | File Name | Description |
 |------------|-------------|
 | `ctr_prediction.ipynb` | Main Jupyter Notebook containing full implementation (data analysis, model training, and evaluation). |
-| `project_report.pdf` | Final report summarizing the project overview, results, and business impact. |
 | `README.md` | Project documentation and description (this file). |
 | `requirements.txt` | List of Python dependencies for running the project. |
 
